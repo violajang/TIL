@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7427982b-2dc2-43b9-be40-ccbb28db3b1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/javascript/terms/basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/terms/basic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/TERMS/basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/TERMS/basic.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,10 +36,10 @@
         </entry>
       </file>
       <file leaf-file-name="basic.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript/terms/basic.md">
+        <entry file="file://$PROJECT_DIR$/javascript/TERMS/basic.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="400">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -55,6 +55,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/javascript/용어정리/basic.md" />
         <option value="$PROJECT_DIR$/javascript/terms/basic.md" />
+        <option value="$PROJECT_DIR$/javascript/TERMS/basic.md" />
       </list>
     </option>
   </component>
@@ -100,7 +101,7 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="terms" type="462c0819:PsiDirectoryNode" />
+              <item name="TERMS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,12 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532750026999</updated>
       <workItem from="1532750028108" duration="148000" />
-      <workItem from="1532751102777" duration="1713000" />
+      <workItem from="1532751102777" duration="2331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1861000" />
+    <option name="totallyTimeSpent" value="2479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -206,10 +207,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/terms/basic.md">
+    <entry file="file://$PROJECT_DIR$/javascript/TERMS/basic.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="400">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>

@@ -35,6 +35,19 @@ if (document.all)
 
 https://developer.mozilla.org/en-US/docs/Glossary/Falsy
 
+<pre>
+<code>
+function checkLogin(id, password){
+	var isLogin = id && password;
+	return isLogin &&  '로그인성공';
+}
+</code>
+</pre>
+
+console.log(checkLogin('id', 'password'));
+
+console.log('id','pw');
+
 2. and(&&), or(||)
 - and(&&)
 조건의 둘이 모두 true 일때만 true.
