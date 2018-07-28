@@ -17,6 +17,8 @@ if (-Infinity)
 </code>
 </pre>
 
+https://developer.mozilla.org/en-US/docs/Glossary/Truthy
+
 - falsy
 <pre>
 <code>
@@ -30,6 +32,8 @@ if ("")
 if (document.all)
 </code>
 </pre>
+
+https://developer.mozilla.org/en-US/docs/Glossary/Falsy
 
 2. and(&&), or(||)
 - and(&&)
