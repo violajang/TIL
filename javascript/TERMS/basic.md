@@ -41,12 +41,11 @@ function checkLogin(id, password){
 	var isLogin = id && password;
 	return isLogin &&  '로그인성공';
 }
+
+console.log(checkLogin('id', 'password'));
 </code>
 </pre>
 
-console.log(checkLogin('id', 'password'));
-
-console.log('id','pw');
 
 2. and(&&), or(||)
 - and(&&)
