@@ -3,7 +3,7 @@
 ### 1. 기존과 달라진 ES6에서의 리스트 순회
 
 - ES6가 되면서 리스트 순회가 많이 바뀌었다.
-1. ES6 이전의 리스트 순회 
+  + ES6 이전의 리스트 순회 
 <pre>
 <code>
 const list = [1, 2, 3];
@@ -16,7 +16,8 @@ for(var i = 0; i < list.length; i++){
    + length라는 프로퍼티에 의존하고 숫자라는 키로 내부의 값에 접근하여 순회하도록 함. 
    <br/>
 <hr />
-2. ES6 리스트 순회 
+
+### 2. ES6 리스트 순회 
 <pre>
 <code>
 for (const a of list){
@@ -30,10 +31,10 @@ for (const a of list){
 <hr />
 
 ### 2. Array, Set, Map을 통해 알아보는 이터러블/이터레이터 프로토콜
-1. Symbol.iterator <br/>
+-  Symbol.iterator <br/>
 ES6에 추가 된 어떤 객체에 key로 사용될 수 있는 것.
 for of 문과 연관이 있다.
-<br/>
+<br/><br/>
 - Array를 통해 알아보기
 <pre>
 <code>
