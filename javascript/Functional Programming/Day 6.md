@@ -76,4 +76,4 @@ document.querySelector('#cart').innerHTML =
 
 - result
 
-![](images/total_price_capture.jpg)
+![](images/total_price_capture.png)
