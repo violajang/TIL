@@ -152,4 +152,4 @@ go(
   go(products, base_total_price((p) => p.price < 20000), console.log);
   go(products, base_total_price((p) => p.price >= 20000), console.log);
 </code>
-</pre>
+</pre>ㅅ
